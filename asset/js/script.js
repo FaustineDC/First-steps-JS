@@ -73,3 +73,4 @@ function onConfirm(){
 
 //L'activation du bouton appelle la fonction onConfirme
 bouton.addEventListener('click', onConfirm);
+
